@@ -1,6 +1,8 @@
 # ZaoShrubDL
 Links to the code and data correspondig to the "Sub-alpine shrub classification using UAV images: Performance of human observers vs DL classifiers" paper in Ecological Informatics.
 
+![Overview](overview.png)
+
 ## Data
 
 The Data used for the experiments in the paper is available in Zenodo:
@@ -17,6 +19,9 @@ The code used in this paper was used to provide code examples in a drone image p
 [Pre-processsing code, from mosaics to patches (course UNIT 3, Connected Components for patch extraction)](https://colab.research.google.com/drive/18dMeSaJL22G_26FHrmIbz8n5plhe8mOZ?usp=sharing), 
 
 [\*\* Pre-processing VIDEO  LESSON\*\*](https://www.youtube.com/playlist?list=PLfZpLxnJ0nUeK8KwoB1CpJPazJMnO6GZM)
+
+![examples[(classExamples.png)
+
 
 ### Dataset Handling
  
