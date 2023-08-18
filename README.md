@@ -34,5 +34,8 @@ The code used in this paper was used to provide code examples in a drone image p
 
 The main page of the course contains the email address of one of the authors of the paper and person in charge of the drone image processing course who can be contacted to solve issues regarding the code.
 
-General Course: https://colab.research.google.com/drive/1mjBugZmwa6OSxNaqkrCu4OCslKf2Wy7P?usp=sharing
+General Course: https://colab.research.google.com/drive/1mjBugZmwa6OSxNaqkrCu4OCslKf2Wy7P?usp=sharing  
 Youtube Channel: https://www.youtube.com/channel/UCDxi6j88IlZXsRcAUXlscgw
+
+* The Jupyter Notebooks for the code are also available in Japanese as units 3,4,5 of Course 4 in https://colab.research.google.com/drive/1wYIcjC74RnB3HcpqCWWoXLUjVlD8N1YU?usp=sharing　　
+*  コードのJupyter Notebook は、次のリンクの４番目のコース、ユニット 3、4、5 として日本語でも入手できます。https://colab.research.google.com/drive/1wYIcjC74RnB3HcpqCWWoXLUjVlD8N1YU?usp=sharing　　
