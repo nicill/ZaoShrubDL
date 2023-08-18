@@ -20,9 +20,6 @@ The code used in this paper was used to provide code examples in a drone image p
 
 [\*\* Pre-processing VIDEO  LESSON\*\*](https://www.youtube.com/playlist?list=PLfZpLxnJ0nUeK8KwoB1CpJPazJMnO6GZM)
 
-![examples](classExamples.png)
-
-
 ### Dataset Handling
  
 [(Dataset Definition: (Course UNIT 4, Handling Custom Data in Pytorch)](https://colab.research.google.com/drive/1zkdVQMv7YCBExHMJ1qCdrCba7Z1jsEi8?usp=sharing), 
@@ -44,3 +41,6 @@ Youtube Channel: https://www.youtube.com/channel/UCDxi6j88IlZXsRcAUXlscgw
 
 * The Jupyter Notebooks for the code are also available in Japanese as units 3,4,5 of Course 4 in https://colab.research.google.com/drive/1wYIcjC74RnB3HcpqCWWoXLUjVlD8N1YU?usp=sharing　　
 *  コードのJupyter Notebook は、次のリンクの４番目のコース、ユニット 3、4、5 として日本語でも入手できます。https://colab.research.google.com/drive/1wYIcjC74RnB3HcpqCWWoXLUjVlD8N1YU?usp=sharing　　
+
+![examples](classExamples.png)
+
