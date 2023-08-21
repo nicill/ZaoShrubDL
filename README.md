@@ -7,8 +7,7 @@ Links to the code and data correspondig to the "Sub-alpine shrub classification 
 
 The Data used for the experiments in the paper is available in Zenodo:
 
-LINK MISSING
-
+[LINK](https://zenodo.org/record/8266948)
 
 ## Code
 
