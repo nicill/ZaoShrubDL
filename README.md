@@ -1,5 +1,6 @@
 # ZaoShrubDL
-Links to the code and data correspondig to the "Sub-alpine shrub classification using UAV images: Performance of human observers vs DL classifiers" paper in Ecological Informatics.
+Links to the code and data correspondig to the "Sub-alpine shrub classification using UAV images: Performance of human observers vs DL classifiers" paper in Ecological Informatics:
+https://www.sciencedirect.com/science/article/pii/S1574954124000049
 
 ![Overview](overview.png)
 
